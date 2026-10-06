@@ -34,7 +34,6 @@ Key Skills Demonstrated
 •	DAX calculations
 •	KPI development
 •	Interactive dashboard design
-
 •	Data visualization
 •	Business analysis
 Project Goal
