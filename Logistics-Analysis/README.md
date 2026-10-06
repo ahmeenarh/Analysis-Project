@@ -1,4 +1,7 @@
 Logistics & Fleet Analysis Dashboard
+## Project Report
+[View Full Logistics and Fleet Analysis Project](LOGISTICS AND FLEET-ANALYSIS-PROJECT.pdf)
+
 Project Overview
 This project analyzes logistics and fleet operations using Microsoft Excel and Power BI.
 The analysis was designed to provide insights into fleet utilization, fuel expenses, driver performance, maintenance costs, delivery performance, operating costs, and estimated profitability.
