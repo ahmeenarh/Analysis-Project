@@ -31,19 +31,21 @@ Key Skills Demonstrated
 •	DAX calculations
 •	KPI development
 •	Interactive dashboard design
-## 📊 Dashboard Preview
-
-### Dashboard 1 — Fleet Operations
-![Fleet Operations](fleet operations.png)
-
-### Dashboard 2 — Driver Performance
-![Driver Performance](driver performance.png)
-
-### Dashboard 3 — Cost & Profitability
-![Cost Profitability](cost profitability.png)
 
 •	Data visualization
 •	Business analysis
 Project Goal
 The goal of this project is to transform raw logistics data into meaningful insights that can help businesses monitor operational efficiency, control costs, evaluate performance, and make data-driven decisions.
+
+## 📊 Dashboard Preview
+
+### Dashboard 1 — Fleet Operations
+![Fleet Operations](fleet-operations.png)
+
+### Dashboard 2 — Driver Performance
+![Driver Performance](driver-performance.png)
+
+### Dashboard 3 — Cost & Profitability
+![Cost Profitability](cost-profitability.png)
+
 
