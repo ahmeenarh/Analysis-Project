@@ -40,12 +40,12 @@ The goal of this project is to transform raw logistics data into meaningful insi
 ## 📊 Dashboard Preview
 
 ### Dashboard 1 — Fleet Operations
-![Fleet Operations](fleet-operations.png)
+![Fleet Operations](fleet-operations.PNG)
 
 ### Dashboard 2 — Driver Performance
-![Driver Performance](driver-performance.png)
+![Driver Performance](driver-performance.PNG)
 
 ### Dashboard 3 — Cost & Profitability
-![Cost Profitability](cost-profitability.png)
+![Cost Profitability](cost-profitability.PNG)
 
 
