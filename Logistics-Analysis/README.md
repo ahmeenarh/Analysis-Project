@@ -39,13 +39,13 @@ The goal of this project is to transform raw logistics data into meaningful insi
 
 ## 📊 Dashboard Preview
 
-### Dashboard 1 — Fleet Operations
-![Cost profitability](https://github.com/ahmeenarh/Analysis-Project/blob/main/Logistics-Analysis/Cost-profitability.PNG)
+### Dashboard 1 — Cost profitability
+![Cost profitability](Cost-profitability.PNG)
 
 ### Dashboard 2 — Driver Performance
 ![Driver Performance](./Driver-Performance.PNG)
 
-### Dashboard 3 — Cost & Profitability
+### Dashboard 3 — Fleet Operations
 ![Fleet Operations](./Fleet-Operations.PNG)
 
 
