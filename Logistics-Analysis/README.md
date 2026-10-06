@@ -1,6 +1,6 @@
 Logistics & Fleet Analysis Dashboard
 ## Project Report
-[View Full Logistics and Fleet Analysis Project](LOGISTICS AND FLEET-ANALYSIS-PROJECT.pdf)
+[View Full Logistics and Fleet Analysis Project](https://github.com/ahmeenarh/Analysis-Project/blob/main/Logistics-Analysis/LOGISTICS%20AND%20FLEET%20ANALYSIS%20DASHBOARDS.pdf)
 
 Project Overview
 This project analyzes logistics and fleet operations using Microsoft Excel and Power BI.
